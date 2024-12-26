@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/Resume_v2-1.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+   # url: /markdown/
