@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Worcester Polytechnic Institute (WPI) in the Wireless Innovation Laboratory (WILab) advised by Prof. Alexander Wyglinski. My reserach involves building forecasting models for predicting traffic demands in communication networks and using predicted traffic demands to inform routing decisions. My expected graudation date is May 2026. 
+I am a Ph.D. student in the Wireless Innovation Laboratory (WILab) at Worcester Polytechnic Institute (WPI), where I am advised by Prof. Alexander Wyglinski. My research focuses on developing forecasting models to predict traffic demands in communication networks and leveraging these predictions to improve routing decisions. I expect to graduate in May 2026.
 
-Prior to joining WPI, I completed my B.S. and M.S. in Electrical and Computer Engineering at Lousiana State Univeristy (LSU) in 2020 and 2022, respectively. At LSU 
+Before joining WPI, I earned my B.S. and M.S. degrees in Electrical and Computer Engineering from Louisiana State University (LSU) in 2020 and 2022, respectively.
 
-In my spare time I enjoy training for half marathons and rock climbing (both indoors and outside). 
+Outside of research, I enjoy training for half marathons and rock climbing, both indoors and outdoors.
+
+---
+- title: "CV"
+  url: /files/Resume_v2-1.pdf
+---
