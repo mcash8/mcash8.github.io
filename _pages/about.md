@@ -14,7 +14,5 @@ Before joining WPI, I earned my B.S. and M.S. degrees in Electrical and Computer
 
 Outside of research, I enjoy training for half marathons and rock climbing, both indoors and outdoors.
 
----
-- title: "CV"
-  url: /files/Resume_v2-1.pdf
----
+# Resume
+The lastest version of my resume is [here](files\Resume_v2-1.pdf). 
