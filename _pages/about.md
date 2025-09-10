@@ -19,7 +19,8 @@ Outside of research, I enjoy training for half marathons and rock climbing, both
 ## Conference Papers 
   - M. Cash and A. Wyglinski, "Improving Internet Traffic Matrix Prediction via Time Series Clustering", *Accecpted to Internantional Conference on Machine Learning Applications 2025*
   - M. Cash, J. Murphy and A. Wyglinski, "WIP: Federated Learning for Routing in Swarm Based Distributed Multi-Hop Networks," 2023 IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), Boston, MA, USA, 2023, pp. 316-319, doi: 10.1109/WoWMoM57956.2023.00049. [IEEEXplore]()
-## Tutorials
+
+## Talks
   - M. Cash and A. Wyglinkski, "Supervised Learning vs. Reinforcement Learning: A Comparative Analysis For Designing Intelligent FutureG Network", [*Delivered at IEEE Future World Networks Forum 2023*](https://fnwf2023.ieee.org/program/tutorials). [slides](files\IEEE_FNWF_23_Tutorial_Presentation.pdf). 
 
 # Resume
